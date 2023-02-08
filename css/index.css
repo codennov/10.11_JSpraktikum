@@ -9,7 +9,7 @@ body {
 }
 
 ul[class] {
-  list-style: none;
+  list-style: none;   
 }
 
 ul[class],
@@ -108,7 +108,7 @@ main {
 }
 
 .fruit_violet {
-  background: #8b00ff;
+  background: #9574b1;
 }
 
 .fruit_green {
@@ -116,11 +116,11 @@ main {
 }
 
 .fruit_carmazin {
-  background: #dc143c;
+  background: #cc5482;
 }
 
 .fruit_yellow {
-  background: #ffd800;
+  background: #f5f111;
 }
 
 .fruit_lightbrown {
